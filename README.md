@@ -11,7 +11,7 @@ Al ejecutar la aplicación, se muestra un menú con opciones para convertir entr
 
 El menú muestra las siguientes opciones:
 
-![Descripción de la imagen](Imagenes/menú.jpg)
+![Descripción de la imagen](Imagenes/menu.png)
 
 # 🔄 Conversión de Moneda
 
