@@ -11,6 +11,7 @@
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../../GsonBiblioteca/gson-2.11.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../GsonBiblioteca/gson-2.11.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
